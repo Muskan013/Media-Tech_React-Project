@@ -9,7 +9,7 @@ function Header() {
   return (
     <div>
         <div className='heading1'>
-            <h1>Food App</h1> 
+            <h1>Media Tech</h1> 
       <ul className='link'>
         <li>
         
