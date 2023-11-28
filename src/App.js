@@ -15,11 +15,11 @@ function App() {
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav ms-auto ">
             <ul className="navbar-nav">
-            <li><a className="nav-link" href="#Home">HOME</a></li>
-            <li><a className="nav-link" href="#Services">SERVICES</a></li>
-            <li><a className="nav-link" href="#About-us">ABOUT US</a></li>
-            <li><a className="nav-link" href="#Testimonials">TESTIMONIALS</a></li>
-            <li><a className="nav-link" href="#Contact" >CONTACT</a></li>
+            <li><a className="nav-link" href="#top">HOME</a></li>
+            <li><a className="nav-link" href="#services">SERVICES</a></li>
+            <li><a className="nav-link" href="#about-us">ABOUT US</a></li>
+            <li><a className="nav-link" href="#estimonials">TESTIMONIALS</a></li>
+            <li><a className="nav-link" href="#footer" >CONTACT</a></li>
           </ul>
           </div>
         </div>
