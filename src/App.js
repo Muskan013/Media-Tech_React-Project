@@ -18,7 +18,7 @@ function App() {
             <li><a className="nav-link" href="#top">HOME</a></li>
             <li><a className="nav-link" href="#services">SERVICES</a></li>
             <li><a className="nav-link" href="#about-us">ABOUT US</a></li>
-            <li><a className="nav-link" href="#estimonials">TESTIMONIALS</a></li>
+            <li><a className="nav-link" href="#testimonials">TESTIMONIALS</a></li>
             <li><a className="nav-link" href="#footer" >CONTACT</a></li>
           </ul>
           </div>
